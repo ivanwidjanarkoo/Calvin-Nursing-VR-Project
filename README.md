@@ -1,4 +1,4 @@
-# Calvin-Nursing-VR-Project
+Calvin Nursing VR Project
 
 PROJECT DESCRIPTION
 
@@ -16,7 +16,7 @@ We gathered data from pre-surveys and post-surveys conducted with nursing studen
 
 STATISTICAL MODELING
 
-We employed two linear regression models to investigate the effects of Time Points and Simulation Experiences on nursing students' confidence and knowledge in health assessments. These models helped us explore whether the timing and nature of VR experiences influenced students' confidence levels.
+We employed two linear regression models to investigate the effects of Time Points and Simulation Experiences on nursing students' confidence and knowledge in health assessments. These models helped us explore whether the timing and nature of VR experiences influenced students' confidence levels. Throughout this project, I used R and learned to utilize specific libraries such as ggformula for our data visualization and analysis.
 
 MAIN FINDINGS
 
@@ -39,4 +39,3 @@ WORK CITED
 
 "Nursing at Calvin." Calvin University, calvin.edu/academics/departments-programs/nursing.
 "Katherine Kunnen." Calvin University, calvin.edu/directory/people/katherine-kunnen.
-
