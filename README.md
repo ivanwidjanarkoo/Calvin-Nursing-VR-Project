@@ -1,4 +1,5 @@
 # Calvin-Nursing-VR-Project
+
 PROJECT DESCRIPTION
 
 This project was completed for my STAT245 class, in collaboration with two of my classmates, Ha Dong Park and Alex Miller, under the guidance of Professor Katherine Kunnen from the Calvin Nursing Department. Our primary aim was to analyze the impact of virtual reality (VR) experiences on nursing students' confidence in conducting health assessments. We conducted a pre-survey before the nursing simulation experience and a post-survey afterward, where students answered questions to determine if their confidence levels were influenced by the VR experience.
